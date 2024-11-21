@@ -4,7 +4,7 @@ Bettoni, R., Dupont, G., Walczak, A. M., Buyl, S., Optimizing Information Transm
 
 https://www.biorxiv.org/content/10.1101/2024.10.21.619032v1
 
-#### Description: 
+Description: 
 
 'Fig_Exp.ipynb' reproduces Fig. 1(c), Fig. S1(a), S1(b) and S1(c). 
 
